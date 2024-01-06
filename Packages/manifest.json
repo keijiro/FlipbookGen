@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.recorder": "5.0.0",
+    "com.unity.ugui": "2.0.0"
+  }
+}
